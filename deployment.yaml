@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: hello-app
-        image: seu_usuario_dockerhub/hello-app:latest
+        image: otaviolxna/hello-app:latest
         ports:
         - containerPort: 8080
