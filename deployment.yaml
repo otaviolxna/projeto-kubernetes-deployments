@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: hello-app
-        image: otaviolxna/hello-app:1d8f35189b70
+        image: otaviolxna/hello-app:1e41711a5723
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
